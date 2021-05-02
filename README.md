@@ -1,5 +1,5 @@
 # Newgrounds-Snowboarding
-The public repo for the Newgrounds Snowboarding game
+The public repo for the Newgrounds Snowboarding game. Please credit the original artists and musicians if you use stuff (the audio tracks have various licensing terms found on Newgrounds, don't just steal!).
 
 ![image](https://user-images.githubusercontent.com/5033927/116805727-5fbf9580-aaf6-11eb-89c2-b023c303175e.png)
 
