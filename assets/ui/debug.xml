@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vbox style="background-color: #ababab" width="140" height="360">
+	<property-grid width="100%" height="100%">
+		<property-group text="Physics">
+			<property id="sticky" label="Sticky jumps" type="boolean" value="false" />
+			<property id="boost" label="Jump boost" type="int" value="1" />
+			<property id="vector" label="Maintain X speed on slopes" type="boolean" value="true" />
+			<property id="minx" label="Min X speed" type="int" value="240" />
+			<property id="accx" label="Gravity in X" type="int" value="60" />
+			<property id="accy" label="Gravity in Y" type="int" value="240"  onChange="trace(event.target.id + ' = ' + event.target.value)"/>
+		</property-group>
+		<property-group text="Camera">
+			<property id="draw" label="Debug draw" type="boolean" value="false" />
+			<property id="camx" label="Camera X" type="int" value="0" />
+			<property id="camy" label="Camera Y" type="int" value="0" />
+			<property id="cama" label="Camera angle" type="int" value="0" />
+		</property-group>
+	</property-grid>
+</vbox>

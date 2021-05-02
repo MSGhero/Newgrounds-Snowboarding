@@ -1,0 +1,171 @@
+﻿{"frames": [
+
+{
+	"filename": "pico",
+	"frame": {"x":355,"y":786,"w":163,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":76,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "nene",
+	"frame": {"x":1,"y":802,"w":149,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":75,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "captain",
+	"frame": {"x":362,"y":267,"w":165,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "tricky",
+	"frame": {"x":1,"y":551,"w":191,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":46,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "henry",
+	"frame": {"x":786,"y":543,"w":101,"h":296},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":1,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "ellie",
+	"frame": {"x":523,"y":520,"w":130,"h":295},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":0,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "choco",
+	"frame": {"x":1,"y":274,"w":177,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":15,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "king",
+	"frame": {"x":654,"y":281,"w":132,"h":261},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":28,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "kerrigan",
+	"frame": {"x":193,"y":527,"w":161,"h":275},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":21,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "goat",
+	"frame": {"x":656,"y":1,"w":139,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":48,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "phil",
+	"frame": {"x":528,"y":281,"w":110,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":69,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "smiley",
+	"frame": {"x":654,"y":543,"w":131,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":64,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "johny",
+	"frame": {"x":363,"y":1,"w":145,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":56,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "boog",
+	"frame": {"x":1,"y":1,"w":187,"h":272},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":35,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "gf",
+	"frame": {"x":355,"y":527,"w":167,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":36,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "rogue",
+	"frame": {"x":151,"y":803,"w":136,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":96,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "chibi",
+	"frame": {"x":519,"y":816,"w":160,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":140,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "shotgun",
+	"frame": {"x":179,"y":274,"w":182,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":45,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "cordelia",
+	"frame": {"x":528,"y":1,"w":127,"h":279},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":17,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}
+,{
+	"filename": "josh",
+	"frame": {"x":189,"y":1,"w":173,"h":265},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":31,"w":220,"h":307},
+	"sourceSize": {"w":220,"h":307}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.5.40714",
+	"image": "pose_ss.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

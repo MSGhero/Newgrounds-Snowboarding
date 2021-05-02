@@ -1,0 +1,171 @@
+﻿{"frames": [
+
+{
+	"filename": "pico",
+	"frame": {"x":159,"y":81,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "nene",
+	"frame": {"x":400,"y":1,"w":79,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "captain",
+	"frame": {"x":400,"y":80,"w":78,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "tricky",
+	"frame": {"x":1,"y":1,"w":79,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "henry",
+	"frame": {"x":238,"y":81,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "ellie",
+	"frame": {"x":238,"y":81,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "choco",
+	"frame": {"x":81,"y":1,"w":79,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "king",
+	"frame": {"x":161,"y":1,"w":79,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "kerrigan",
+	"frame": {"x":317,"y":82,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "goat",
+	"frame": {"x":1,"y":81,"w":78,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "phil",
+	"frame": {"x":321,"y":1,"w":78,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "smiley",
+	"frame": {"x":321,"y":1,"w":78,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "johny",
+	"frame": {"x":80,"y":81,"w":78,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "boog",
+	"frame": {"x":159,"y":160,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "gf",
+	"frame": {"x":238,"y":160,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "rogue",
+	"frame": {"x":396,"y":160,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "chibi",
+	"frame": {"x":241,"y":1,"w":79,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "shotgun",
+	"frame": {"x":1,"y":161,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "cordelia",
+	"frame": {"x":80,"y":161,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}
+,{
+	"filename": "josh",
+	"frame": {"x":317,"y":161,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.5.40714",
+	"image": "link_ss.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":256},
+	"scale": "1"
+}
+}
